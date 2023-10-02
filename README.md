@@ -23,6 +23,7 @@ Kode Program :
 ![](ss_kuis/s2.png)
 
 Output : 
+
 ![](ss_kuis/j2.png)
 
 Penjelasan : 
